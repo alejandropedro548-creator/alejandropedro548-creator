@@ -47,7 +47,8 @@ Este repositório reúne todos os exercícios, desafios e projetos que desenvolv
 - Contribuir com a comunidade open source futuramente.
 
 Se você também está aprendendo ou quer trocar ideias, será um prazer conversar!  
-📧 Email: alejandropedro548@gmail.com  
+📧 Email: alejandropedro548@gmail.com 
+📞 Whatsapp: 11 99899-3067
 "O importante não é onde você está, mas para onde está indo." — Les Brown
 
 Obrigado por visitar meu repositório! 🌟

@@ -27,6 +27,12 @@ Este repositório reúne todos os exercícios, desafios e projetos que desenvolv
 - Manipulação de strings.
 - Entrada e saída de dados.
 - Projetos interativos com lógica condicional.
+- Principais Características das Listas.
+- Operações Básicas com Listas.
+- Fatiamento (Slicing).
+- Conversor de Moeda.
+- Verificador de CPF,CEP e etc...
+- 
 
 
  🐍 Exercícios e projetos em Python.

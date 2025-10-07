@@ -33,7 +33,7 @@ Este repositório reúne todos os exercícios, desafios e projetos que desenvolv
 - Conversor de Moeda.
 - Verificador de CPF,CEP e etc...
 - cálculos
-
+- pyautogui
 
  🐍 Exercícios e projetos em Python.
  💡 Anotações e dicas que estou aprendendo.

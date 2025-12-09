@@ -1,51 +1,72 @@
-# Primeiro repositorio
+Primeiro repositorio
 
-# 🚀 Minha Jornada com Python
+🚀 Minha Jornada com Python
 
 Olá! 👋 Meu nome é Pedro Alejandro e este repositório é parte da minha jornada de aprendizado em Python. Estou explorando o mundo da programação e quero compartilhar meus projetos, descobertas e desafios com você!
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F4em4zZnB6b2pjN2g2YXJwOGpzaHBvcGdmMDFmcGN2c2lhd2w2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n1dFDLwXu4Qkwy7OJ0/giphy.gif" alt="Data Coding GIF">
 </p>
 
-## 🧠 Sobre Mim
+🧠 Sobre Mim
 
 Sou um estudante apaixonado por tecnologia e estou dando meus primeiros passos na programação com Python. Meu objetivo é me tornar um desenvolvedor capaz de criar soluções úteis, criativas e impactantes.
 
 
-# 🐍 Minha Jornada com Python — Exercícios e Projetos Iniciais
+🐍 Minha Jornada com Python — Exercícios e Projetos Iniciais
 
 
 Este repositório reúne todos os exercícios, desafios e projetos que desenvolvi durante meu aprendizado em Python. Cada atividade representa um passo importante na minha evolução como programador iniciante.
 
 ---
 
-## 🧠 Temas Estudados
+🧠 Temas Estudados
 
-- Condicionais `if`, `elif`, `else`.
-- Operadores aritméticos, lógicos e de comparação.
-- Tipos de dados: `int`, `float`, `str`, `bool`.
-- Manipulação de strings.
-- Entrada e saída de dados.
-- Projetos interativos com lógica condicional.
-- Principais Características das Listas.
-- Operações Básicas com Listas.
-- Fatiamento (Slicing).
-- Conversor de Moeda.
-- Verificador de CPF,CEP e etc...
-- cálculos
-- pyautogui
+Condicionais if, elif, else.
+
+Operadores aritméticos, lógicos e de comparação.
+
+Tipos de dados: int, float, str, bool.
+
+Manipulação de strings.
+
+Entrada e saída de dados.
+
+Projetos interativos com lógica condicional.
+
+Desenvolvimento web.
+
+APIs.
+
+Front-end e Back-end.
+
+Banco de dados.
+
+SQL.
+
+Arquivos CSV e JSON.
+
+Manipulação de dados.
+
+Construção de sites.
+
+Trabalhar com dois loopings (loops aninhados).
+
+Flask.
+
+Automação.
+
 
  🐍 Exercícios e projetos em Python.
  💡 Anotações e dicas que estou aprendendo.
  🔧 Pequenos scripts para automatizar tarefas.
  📈 Projetos que mostram minha evolução.
 
-## 🛠️ Tecnologias que estou aprendendo
+ 🛠️ Tecnologias que estou aprendendo
 
   Python ,
   GitHub,
   Vscode.
-## 🎯 Objetivos
+ 🎯 Objetivos
 
 - Aprender os fundamentos da programação.
 - Criar projetos práticos e úteis.
